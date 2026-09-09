@@ -1,0 +1,17 @@
+{
+  "name": "genpark-consistent-hashing-virtual-nodes-ring-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Consistent Hashing Ring with Virtual Nodes for Bounded-Load Distributed Sharding",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "distributed-systems",
+    "consistent-hashing",
+    "sharding",
+    "virtual-nodes"
+  ]
+}
